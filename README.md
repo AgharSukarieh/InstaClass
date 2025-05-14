@@ -72,12 +72,37 @@ ib/
 - **State Management**: `ChangeNotifier` / MVVM  
 - **YouTube Playback**: `youtube_player_flutter`  
 - **Platform Support**: iOS, Android, Web, macOS, Windows, Linux
+------
+## App Screenshots
 
----
+###🔑 Login Screen
+![login](image_screen/login.jpeg)
+
+### 📝 Registration Screen
+![register](image_screen/regster.jpeg)
+
+### Main Courses Screen
+
+![courses](image_screen/couers.jpeg)
+
+###📁 Files Screen
+
+![files](image_screen/files.jpeg)
+
+### ⚙️ Settings Screen
+
+![settings](image_screen/settings.jpeg)
+
+###🛠️ Forgot Password Screen
+![forgot](image_screen/forgite.jpeg)
+
+###🎬 First Activity Screen
+
+![first](image_screen/firstActivity.jpeg)
 
 ## 🛠 Getting Started
 
 1. **Clone this repo**  
    ```bash
-   git clone git@github.com:your-username/instaClass.git
+   git clone git@github.com:AgharSukarieh/instaClass.git
 
