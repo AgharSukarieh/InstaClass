@@ -1,0 +1,12 @@
+specVersion: "v1beta"
+serviceId: "instaclass"
+location: "asia-east2"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "db102"
+      cloudSql:
+        instanceId: "instaclass-99"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]
