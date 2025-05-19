@@ -85,7 +85,7 @@ ib/
 
 ![courses](image_screen/couers.jpeg)
 
-###📁 Files Screen
+### 📁 Files Screen
 
 ![files](image_screen/files.jpeg)
 
@@ -93,10 +93,10 @@ ib/
 
 ![settings](image_screen/settings.jpeg)
 
-###🛠️ Forgot Password Screen
+### 🛠️ Forgot Password Screen
 ![forgot](image_screen/forgite.jpeg)
 
-###🎬 First Activity Screen
+### 🎬 First Activity Screen
 
 ![first](image_screen/firstActivity.jpeg)
 
